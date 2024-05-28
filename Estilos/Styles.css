@@ -1,0 +1,32 @@
+.Titulo_Pagina{
+    font-size: 50 px;
+    
+}
+
+.Iconos_Inicio{
+    color: rgb(129, 13, 13);
+}
+
+.foto_Inicial{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+
+.fotos_perros{
+    width: 120px;
+    height: 120px;
+}
+
+.foto_autor{
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+}
+
+.borde_autor{
+    border: 5px solid black;
+    margin-left: 450px;
+    margin-right: 450px;
+}
