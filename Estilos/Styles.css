@@ -1,10 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #e0c9c9;
+}
+
 .Titulo_Pagina{
     font-size: 50px;
     
 }
 
 .Iconos_Inicio{
-    color: rgb(129, 13, 13);
+    color: firebrick;
 }
 
 .foto_Inicial{
@@ -29,4 +35,10 @@
     border: 5px solid black;
     margin-left: 450px;
     margin-right: 450px;
+}
+
+.borde_imagen{
+    border: 5px solid black;
+    margin-left: 470px;
+    margin-right: 470px;
 }
